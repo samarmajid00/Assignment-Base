@@ -8,10 +8,10 @@ body {
 }
 
 .container {
-    width: 960px;
+    max-width: 960px;
     display: flex;
     justify-content: center;
-    text-align: center;
+    margin-left: 300px;
 
 }
 
@@ -19,5 +19,9 @@ body {
     width: 960px;
     display: flex;
     justify-content: center;
-    text-align: center;
+    margin-left: 300px;
+}
+
+label {
+    color: black;
 }
