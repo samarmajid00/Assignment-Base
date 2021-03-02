@@ -1,1 +1,23 @@
-#jibberish
+body {
+    font: normal 18px/1.5 "Times New Roman";
+    background: darkcyan;
+    color: black;
+    min-width: 960px;
+    color:orange;
+
+}
+
+.container {
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.header {
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
