@@ -8,10 +8,10 @@ body {
 }
 
 .container {
-    max-width: 960px;
+   /*  max-width: 960px;
     display: flex;
     justify-content: center;
-    margin-left: 300px;
+    margin-left: 300px; */
 
 }
 
@@ -20,8 +20,10 @@ body {
     display: flex;
     justify-content: center;
     margin-left: 300px;
+    text-decoration-line: underline ;
 }
 
 label {
     color: black;
 }
+
