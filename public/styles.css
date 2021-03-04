@@ -7,6 +7,10 @@ body {
 
 }
 
+html {
+    background: darkcyan;
+
+}
 .container {
    /*  max-width: 960px;
     display: flex;
