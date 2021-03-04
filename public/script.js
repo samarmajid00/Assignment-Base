@@ -22,7 +22,7 @@ function displayMatches() {
     const restaurantName = place.name;
     return `
       <li>
-      <div class = "suggestions li">
+      <div class = "suggestions li box is-small has-background-orange">
         <span class="name">${restaurantName}</span>
         <br>
         <span class="category">${category}</span>

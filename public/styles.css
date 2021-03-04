@@ -10,22 +10,23 @@ body {
 html {
     background: darkcyan;
 }
-.container {
-   /*  max-width: 960px;
-    display: flex;
-    justify-content: center;
-    margin-left: 300px; */
-
-}
 
 .header {
     width: 960px;
     display: flex;
     justify-content: center;
-    margin-left: 300px;
+    margin-left: 290px;
     text-decoration-line: underline ;
 }
 
 .block:not(:last-child) {
     margin-bottom: 1.5rem;
   }
+
+.box {
+    background-image: linear-gradient(orange,white)
+}
+
+li {
+    margin-bottom: 40px;
+}
