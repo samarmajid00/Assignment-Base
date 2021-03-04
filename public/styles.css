@@ -9,7 +9,6 @@ body {
 
 html {
     background: darkcyan;
-
 }
 .container {
    /*  max-width: 960px;
@@ -27,7 +26,6 @@ html {
     text-decoration-line: underline ;
 }
 
-label {
-    color: black;
-}
-
+.block:not(:last-child) {
+    margin-bottom: 1.5rem;
+  }
