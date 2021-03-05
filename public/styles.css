@@ -1,5 +1,6 @@
 body {
-    font: normal 18px/1.5 "Times New Roman";
+    font: normal 18px/1.5;
+    font-family: 'Raleway', sans-serif;
     background: darkcyan;
     color: black;
     min-width: 960px;
