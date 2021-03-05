@@ -1,5 +1,5 @@
 {
-  "name": "inst377-fa2020",
+  "name": "charlesbulma",
   "version": "1.0.0",
   "description": "Base application package for assignments in INST377 at UMD",
   "main": "index.js",
@@ -30,5 +30,13 @@
     "eslint-plugin-cypress": "^2.11.1",
     "eslint-plugin-import": "^2.22.0",
     "node-sass": "^5.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarmajid00/Assignment-Base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samarmajid00/Assignment-Base/issues"
+  },
+  "homepage": "https://github.com/samarmajid00/Assignment-Base#readme"
 }

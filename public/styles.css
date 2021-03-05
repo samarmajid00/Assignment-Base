@@ -7,23 +7,26 @@ body {
 
 }
 
-.container {
-   /*  max-width: 960px;
-    display: flex;
-    justify-content: center;
-    margin-left: 300px; */
-
+html {
+    background: darkcyan;
 }
 
 .header {
     width: 960px;
     display: flex;
     justify-content: center;
-    margin-left: 300px;
+    margin-left: 290px;
     text-decoration-line: underline ;
 }
 
-label {
-    color: black;
+.block:not(:last-child) {
+    margin-bottom: 1.5rem;
+  }
+
+.box {
+    background-image: linear-gradient(orange,white)
 }
 
+li {
+    margin-bottom: 40px;
+}
