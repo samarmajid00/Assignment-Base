@@ -1,0 +1,32 @@
+body {
+    font: normal 18px/1.5 "Times New Roman";
+    background: darkcyan;
+    color: black;
+    min-width: 960px;
+    color:orange;
+
+}
+
+html {
+    background: darkcyan;
+}
+
+.header {
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    margin-left: 290px;
+    text-decoration-line: underline ;
+}
+
+.block:not(:last-child) {
+    margin-bottom: 1.5rem;
+  }
+
+.box {
+    background-image: linear-gradient(orange,white)
+}
+
+li {
+    margin-bottom: 40px;
+}
